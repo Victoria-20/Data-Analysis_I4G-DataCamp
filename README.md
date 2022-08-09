@@ -3,10 +3,10 @@
 Thanks to I4G and DataCamp for the 6 months scholarship awarded to me. 
 The scholarship started in Feb 2022 and ends on 1st October 2022. 
 On the [DataCamp](https://app.datacamp.com/learn) platform, I enrolled in the following career tracks:
-- Data Analyst with Python [link](https://app.datacamp.com/learn/career-tracks/data-analyst-with-python?version=6)
+- Data Analyst with Python [Checkout track](https://app.datacamp.com/learn/career-tracks/data-analyst-with-python?version=6)
   - ![Statement of accomplishment]()
-- Data Analyst in SQL [link](https://app.datacamp.com/learn/career-tracks/data-analyst-in-sql?version=1)
-- Data Analyst in Power BI [link](https://app.datacamp.com/learn/career-tracks/data-analyst-in-power-bi?version=1
+- Data Analyst in SQL [Checkout track](https://app.datacamp.com/learn/career-tracks/data-analyst-in-sql?version=1)
+- Data Analyst in Power BI [Checkout track](https://app.datacamp.com/learn/career-tracks/data-analyst-in-power-bi?version=1
 )
 
 ### Projects/Case Studies Done So far:
