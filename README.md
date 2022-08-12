@@ -11,7 +11,7 @@ On the [DataCamp](https://app.datacamp.com/learn) platform, I enrolled in the fo
 
 ##### 2. Data Analyst in SQL [Checkout track](https://app.datacamp.com/learn/career-tracks/data-analyst-in-sql?version=1)
 
-##### 3. Data Analyst in Power BI [Checkout track](https://app.datacamp.com/learn/career-tracks/data-analyst-in-power-bi?version=1
+##### 3. Data Analyst in Power BI [Checkout track](https://app.datacamp.com/learn/career-tracks/data-analyst-in-power-bi?version=1)
 
 ### Projects/Case Studies Done So far:
 I have so far completed the following projects and still working on many more.
