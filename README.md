@@ -1,8 +1,10 @@
 ## Ingressive4Good(I4G)/DataCamp Scholarship
 
 Thanks to I4G and DataCamp for the 6 months scholarship awarded to me. 
-The scholarship started in Feb 2022 and ends on 1st October 2022. 
+The scholarship started in Feb 2022 and ends on 1st October 2022.
+ 
 On the [DataCamp](https://app.datacamp.com/learn) platform, I enrolled in the following career tracks:
+
 - Data Analyst with Python [Checkout track](https://app.datacamp.com/learn/career-tracks/data-analyst-with-python?version=6)
   ![Statement of accomplishment](/images/statement.png)
 - Data Analyst in SQL [Checkout track](https://app.datacamp.com/learn/career-tracks/data-analyst-in-sql?version=1)
@@ -18,6 +20,6 @@ I have so far completed the following projects and still working on many more.
 4. [Exploring the Evolution of Linux](/Exploring_the_Evolution_of_Linux/notebook.ipynb)
 5. [The Github History of Scala Language](/Github_History_of_Scala_Language/notebook.ipynb)
 6. [The Network Analysis of Game of Thrones](/Network_Analysis_of_Game_of_thrones/notebook.ipynb)
-
+7. [A New Era of Data Analysis in Baseball](/A_New_Era_of_Data_Analysis_in_Baseball/notebook.ipynb)
 
 
