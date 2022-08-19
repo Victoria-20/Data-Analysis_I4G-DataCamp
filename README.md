@@ -3,8 +3,8 @@
 Thanks to I4G and DataCamp for the 6 months scholarship awarded to me. 
 The scholarship started in Feb 2022 and ends on 1st October 2022.
 
-### Projects/Case Studies:
-These are the completed projects.
+### Projects / Case Studies:
+I have completed the below projects.
 
 1. [Analyzing TV Data](/Analyzing_TV_Data/notebook.ipynb)
 2. [Exploring the Bitcoin Cryptocurrency](/Exploring_Bitcoin_Cryptocurrency_Market/notebook.ipynb)
@@ -15,7 +15,13 @@ These are the completed projects.
 7. [A New Era of Data Analysis in Baseball](/A_New_Era_of_Data_Analysis_in_Baseball/notebook.ipynb)
 8. [Generating Keywords for Google Ads](/Generating_Keywords_for_Google_Ads/notebook.ipynb)
  
-[DataCamp](https://app.datacamp.com/learn) enrolled Career Tracks:
+### Technologies / Tools Used
+- Python [Pandas, Numpy, Matplotlib, Seaborn, NetworkX]
+- SQL [Postgresql]
+- Jupiter Notebooks
+- Power BI
+
+Career Tracks I enrolled in on [DataCamp](https://app.datacamp.com/learn)
 
 #### 1. Data Analyst with Python [Checkout track](https://app.datacamp.com/learn/career-tracks/data-analyst-with-python?version=6)
 
