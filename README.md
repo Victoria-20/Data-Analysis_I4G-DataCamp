@@ -15,6 +15,8 @@ I have completed the below projects.
 7. [Exploring the NYC Airbnb Market](/Exploring_NYC_Airbnb_Market/notebook.ipynb)
 8. [Exploring the Evolution of Linux](/Exploring_the_Evolution_of_Linux/notebook.ipynb)
 9. [The Github History of Scala Language](/Github_History_of_Scala_Language/notebook.ipynb)
+10. [Analyze International Debt Statistic](/Analyze_International_Debt_Statistic/notebook.ipynb)
+
  
 ### Technologies / Tools Used
 - Python [Pandas, Numpy, Matplotlib, Seaborn, NetworkX]
