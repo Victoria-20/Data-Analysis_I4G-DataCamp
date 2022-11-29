@@ -37,3 +37,5 @@ Career Tracks I enrolled in on [DataCamp](https://app.datacamp.com/learn)
   ![SQL statement of accomplishement](/images/SQL_statement.png)
 
 ##### 3. Data Analyst in Power BI [Checkout track](https://app.datacamp.com/learn/career-tracks/data-analyst-in-power-bi?version=1)
+
+  ![PowerBI statement of accomplishement](/images/PowerBI.png)
